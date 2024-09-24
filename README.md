@@ -33,6 +33,25 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![Pages from From Data Entry to CEO - The AI Job Threat Index_16 09 2024_page-0001](https://github.com/user-attachments/assets/ea54c96c-fdd4-49b8-902e-77f143cbb0f7)
 
-### Job Threat Index
+### Job Threat Index (No. of Jobs by AI Impact)
 
-AI, a rapidly evolving disruptive force in the global economy, could potentially impact 20% of jobs. This indicates that a significant number of job roles are likely to experience a moderate level of AI influence.
+- AI is a disruptive force in the global economy that could potentially affect 20% of jobs. This indicates that a significant number of job roles will likely experience a moderate level of AI influence.
+
+- While AI can automate tasks and improve efficiency, it is unlikely to completely replace human involvement in most job roles. The significant drop in frequency beyond 40% suggests that only a small number of roles are well-suited for extensive AI integration, where AI could handle a major portion of tasks without significant human intervention.
+
+  ![Job Threat Index](https://github.com/user-attachments/assets/b8c37826-8636-4b36-8de0-f82286c3b203)
+
+### Distribution of Jobs by Domain
+
+- The analysis identified distinct job title counts for various domains, revealing a historical trend of job growth in six sectors that accrued 471 job titles each. Construction, Sales and Marketing, Hospitality, and Law Enforcement encompassed 470 job titles, reflecting a more stable job market.
+
+  ![Distribution of Jobs by Domains](https://github.com/user-attachments/assets/3a3e3a6c-981b-4869-bcfa-07912efa3ad9)
+
+  
+
+### Recommednations: 
+
+Based on the uncovered insights, the following recommedations have been provided: 
+
+
+
