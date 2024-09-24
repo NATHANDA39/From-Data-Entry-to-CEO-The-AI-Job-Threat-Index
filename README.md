@@ -25,5 +25,12 @@ From Data Entry to CEO: The AI Job Threat Index database structure as seen below
 
  # Executive Summary 
  
+ ### Overview of Findings
+
+Artificial intelligence (AI) presents both opportunities and challenges for the labor market. While AI can automate tasks, enhance productivity, and create new jobs, it also raises concerns about job displacement and changes in skill requirements. Our analysis reveals that AI's average impact on jobs is significant, with approximately 30% of roles potentially affected. Additionally, AI could automate up to 20% of the workload within many job titles. Based on these metrics, we estimate that AI could impact around 4,706 jobs across 10 domains.
+ 
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here.
+
+![Pages from From Data Entry to CEO - The AI Job Threat Index_16 09 2024_page-0001](https://github.com/user-attachments/assets/ea54c96c-fdd4-49b8-902e-77f143cbb0f7)
 
 
