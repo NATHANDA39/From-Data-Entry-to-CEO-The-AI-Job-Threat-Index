@@ -7,7 +7,7 @@ AI's influence on the workforce is a subject of both intrigue and apprehension. 
 Insights and recommendations are provided on the following key areas: 
 
 - **Job Threat Index**: A comprehensive analysis of top job titles, examining the transformative effects of AI on their roles and responsibilities.
-- **Domain Comparisons**: A critical analysis of domains experiencing the most profound impact from AI technologies.
+- **Domain Comparison**: A critical analysis of domains experiencing the most profound impact from AI technologies.
 - **AI Impact**: An assessment of the impact AI has different job titles or roles.
 - **AI Models**: Evaluation of AI models patterns.
 
@@ -33,4 +33,6 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![Pages from From Data Entry to CEO - The AI Job Threat Index_16 09 2024_page-0001](https://github.com/user-attachments/assets/ea54c96c-fdd4-49b8-902e-77f143cbb0f7)
 
+### Job Threat Index
 
+AI, a rapidly evolving disruptive force in the global economy, could potentially impact 20% of jobs. This indicates that a significant number of job roles are likely to experience a moderate level of AI influence.
