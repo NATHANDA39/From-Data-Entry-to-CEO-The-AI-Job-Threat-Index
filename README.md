@@ -63,6 +63,13 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
 ![Distribution of tasks across various domain](https://github.com/user-attachments/assets/92a36f96-acc0-45d9-826e-70b3d3d347cc)
 
+### Average of AI Models by domain
+
+The analysis reveals a significant disparity in the average number of AI models deployed across domains. Hospitality, Sales and Marketing, and Construction stand out with 1869.45, 1855.70, and 1849.41 AI models, respectively, demonstrating a higher level of AI integration and potential for improved accuracy and reliability. In contrast, Medical and Healthcare lags behind with 1760.85 AI models, suggesting a lower level of AI adoption. These trends may be attributed to factors such as industry maturity, technological readiness, and regulatory environments.
+
+![AVERAGE OF AI MODELS BY DOMAIN](https://github.com/user-attachments/assets/52a373f5-9247-486a-bebf-87b9c1559c19)
+
+
 ### Recommednations: 
 
 Based on the uncovered insights, the following recommedations have been provided: 
