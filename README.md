@@ -8,12 +8,12 @@ Insights and recommendations are provided on the following key areas:
 
 - **Job Threat Index**: A comprehensive analysis of top job titles, examining the transformative effects of AI on their roles and responsibilities.
 - **Domain Comparison**: A critical analysis of domains experiencing the most profound impact from AI technologies.
-- **AI Impact**: An assessment of the impact AI has different job titles or roles.
-- **AI Models**: Evaluation of AI models patterns.
+- **AI Impact**: An assessment of the impact of AI on various job titles and roles.
+- **AI Models**: Evaluation of patterns in AI models.
 
 An interactive PowerBI dashboard can be downloaded here
   
-The Power BI measures untilized to create the key metrics can be found here
+The Power BI measures utilized to create the key metrics can be found here
   
 # Data Structure & Initial Checks
 
@@ -47,7 +47,15 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
   ![Distribution of Jobs by Domains](https://github.com/user-attachments/assets/3a3e3a6c-981b-4869-bcfa-07912efa3ad9)
 
+### AI Impact by Domain (Sectors)
   
+- The findings suggest that domains like Communication & PR, Data & IT, Leadership & Strategy, and Administrative & Clerical are approaching full automation through AI, with job titles and roles within these sectors being particularly susceptible.
+  
+- Additionally, within these sectors, specific job roles are showing job impact scores exceeding 10%, suggesting a high likelihood of future automation.
+
+- Even though some of these domains may fall below the midpoint, it's crucial not to underestimate their importance. These domains often encompass critical roles within any organization. This emphasizes the need for a careful evaluation and proactive approach to address the potential implications of AI integrations across various job roles and organizations
+
+  ![%GT Sum of AI Impact by Domain](https://github.com/user-attachments/assets/5c66f6a8-d077-4cd8-b451-f5e4ec7f7fbc)
 
 ### Recommednations: 
 
