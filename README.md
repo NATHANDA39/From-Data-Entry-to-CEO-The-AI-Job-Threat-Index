@@ -1,3 +1,10 @@
+# Table of Content 
+- [Project Background](#project-background)
+- [Data Structure and Initial Checks](#data-structure-and-initial-checks)
+- [Data Information and Features](#data-information-and-features)
+- [Executive Summary](#executive-summary)
+- [Recommendations](#recommendations)
+  
 # Project Background
 
 Artificial intelligence (AI) is reshaping the modern workplace, offering both opportunities and challenges. As businesses integrate AI technologies to streamline operations and gain a competitive edge, the impact on employees is profound. From the automation of routine tasks to the creation of entirely new roles, AI is fundamentally altering the nature of work. Understanding these implications is crucial for businesses and workers alike as they navigate this transformative era.
@@ -15,7 +22,7 @@ An interactive PowerBI dashboard can be downloaded [here](https://github.com/NAT
   
 The Power BI measures utilized to create the key metrics can be found 
   
-# Data Structure & Initial Checks
+# Data Structure and Initial Checks
 
 From Data Entry to CEO: The AI Job Threat Index database structure as seen below consist of one table with a total row count of 4,706 records.
   
@@ -23,7 +30,7 @@ From Data Entry to CEO: The AI Job Threat Index database structure as seen below
 
  Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. 
 
- ## Data Information/Features
+ ## Data Information and Features
 
 - **Job titles**: Different job titles or roles.
 
