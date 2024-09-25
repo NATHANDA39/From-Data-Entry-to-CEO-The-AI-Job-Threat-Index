@@ -23,6 +23,20 @@ From Data Entry to CEO: The AI Job Threat Index database structure as seen below
 
  Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. 
 
+ ## Data Information/Features
+
+- **Job titles**: Different job titles or roles.
+
+- **AI Impact**: The percentage of tasks in a particular job role that can be replaced by AI.
+
+- **Tasks**: Number of tasks associated with each job title.
+
+- **AI models**: The number of AI models associated with each job title. This could represent the number of AI models that could potentially replace or assist with the tasks of that job title.
+
+- **AI Workload Ratio**: A ratio representing the portion of workload that can be replaced by AI for each job title.
+Domain: The domain or sector to which each job title belongs.
+
+
  # Executive Summary 
  
  ### Overview of Findings
