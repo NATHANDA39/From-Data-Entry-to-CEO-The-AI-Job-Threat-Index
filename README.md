@@ -11,9 +11,9 @@ Insights and recommendations are provided on the following key areas:
 - **AI Impact**: An assessment of the impact of AI on various job titles and roles.
 - **AI Models**: Evaluation of patterns in AI models.
 
-An interactive PowerBI dashboard can be downloaded here
+An interactive PowerBI dashboard can be downloaded [here](https://github.com/NATHANDA39/From-Data-Entry-to-CEO-The-AI-Job-Threat-Index/blob/main/From%20Data%20Entry%20to%20CEO%20-%20The%20AI%20Job%20Threat%20Index_Dashboard_25.09.2024.pdf)
   
-The Power BI measures utilized to create the key metrics can be found here
+The Power BI measures utilized to create the key metrics can be found 
   
 # Data Structure & Initial Checks
 
