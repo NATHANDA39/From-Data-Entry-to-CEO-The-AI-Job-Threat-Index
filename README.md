@@ -57,6 +57,12 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 
   ![%GT Sum of AI Impact by Domain](https://github.com/user-attachments/assets/5c66f6a8-d077-4cd8-b451-f5e4ec7f7fbc)
 
+### Distribution of tasks across various domain
+
+- While tasks were generally distributed evenly across all domains, 'Data & IT' and 'Construction' emerged as outliers, with exceptionally high workloads approaching 1400 tasks each.
+
+![Distribution of tasks across various domain](https://github.com/user-attachments/assets/92a36f96-acc0-45d9-826e-70b3d3d347cc)
+
 ### Recommednations: 
 
 Based on the uncovered insights, the following recommedations have been provided: 
