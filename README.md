@@ -41,7 +41,8 @@ From Data Entry to CEO: The AI Job Threat Index database structure as seen below
 - **AI models**: The number of AI models associated with each job title. This could represent the number of AI models that could potentially replace or assist with the tasks of that job title.
 
 - **AI Workload Ratio**: A ratio representing the portion of workload that can be replaced by AI for each job title.
-Domain: The domain or sector to which each job title belongs.
+  
+- **Domain**: The domain or sector to which each job title belongs.
 
 
  # Executive Summary 
@@ -115,6 +116,14 @@ Based on the uncovered insights, the following recommedations have been provided
 - **Embrace a Growth Mindset**: Adopt a mindset that is open to change and willing to embrace new challenges.
 
 - **Enhance Soft Skills**: Develop strong interpersonal, communication, and critical thinking skills, which are becoming increasingly important in AI-driven workplaces.
+
+# Limitations
+
+- **Data Availability**: The dataset predominantly focuses on roles with higher automation potential. This focus may overlook industries where the integration of AI is more complex or nuanced, potentially leading to an incomplete understanding of AI’s broader impact.
+
+- **AI Model Specificity**: There is a notable absence of detailed information regarding the specific AI models utilized. This lack of specificity hinders the ability to gain deeper insights into the mechanisms of task automation and the varying effectiveness of different AI models.
+  
+- **Sector Underrepresentation**: Key sectors such as Manufacturing and Construction are underrepresented in the dataset. This underrepresentation limits the generalizability of the findings, particularly in relation to industries that rely heavily on manual labor, thereby restricting the applicability of the conclusions drawn.
 
 # Conclusion
 
